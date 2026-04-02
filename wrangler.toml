@@ -1,4 +1,4 @@
-name = "temp-mail"
+name = "mail"
 main = "src/server.js"
 compatibility_date = "2026-01-11"
 
