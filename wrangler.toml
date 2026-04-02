@@ -22,7 +22,7 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "temp_mail_db"
 database_name = "temp_mail_db"
-database_id = "${D1_DATABASE_ID}"
+database_id = "ea8daca3-71b4-45dd-9fa9-0cd2a1f8225b"
 # CI/本地需提供 D1_DATABASE_ID；占位未替换将导致运行时无绑定
 
 # 静态资源目录（Workers + Assets）
